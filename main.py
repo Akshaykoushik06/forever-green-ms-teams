@@ -23,7 +23,7 @@ I used the below code snippet to fool MS Teams
 while True:
     time.sleep(240)
 
-    # Simulate the scroll action by not literally scrolling :P
+    # Simulate the scroll action by not scrolling :P
     pyautogui.scroll(0)
 
 '''
